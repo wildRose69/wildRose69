@@ -5,10 +5,12 @@ PhD student in **Computational Quantum Physics and Chemistry** at the **Universi
 My research focuses on studying non-adiabatic dynamics using exact factorization. My primary focus is on developing the Generalized Coupled Trajectory Mixed Quantum-Classical (GCTMQC) method. It is a simulation package based on exact factorization that can be used to solve the Time Dependent Schrödinger Equation (TDSE) for non-adiabatic complex molecular systems with exotic features like Spin Orbit Coupling (SOC). I am working on extending the capabilities of GCTMQC to tackle high-dimensional real molecules, such that we can attain a robust and computationally inexpensive pathway to understanding non-adiabatic dynamics. 
  
 ## 🔬 Research Interests
-- Nonadiabatic molecular dynamics & photodissociation
+- Nonadiabatic molecular dynamics.
+- Exact Factorization and GCTMQC
+- Mixed quantum-classical trajectory methods
 - Split-operator wavepacket propagation on GPUs
 - Diabatic/adiabatic electronic structure models
-- Mixed quantum-classical trajectory methods
+
 
 ## 🛠️ Technical Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -20,3 +22,11 @@ My research focuses on studying non-adiabatic dynamics using exact factorization
 
 ## 📫 How to Reach Me
 - 📧 [your.email@univ-lorraine.fr](mailto:your.email@univ-lorraine.fr)
+
+## 📊 GitHub Stats
+
+<!-- GitHub stats card with a custom theme -->
+![Spondon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildRose69&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- Most used languages card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wildRose69&layout=compact&theme=tokyonight&hide_border=true)
