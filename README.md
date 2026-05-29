@@ -21,7 +21,7 @@ My research focuses on studying non-adiabatic dynamics using exact factorization
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ## 📫 How to Reach Me
-- 📧 [your.email@univ-lorraine.fr](mailto:your.email@univ-lorraine.fr)
+- 📧 [spondon.sarma@univ-lorraine.fr](mailto:spondon.sarma@univ-lorraine.f)
 
 ## 📊 GitHub Stats
 
